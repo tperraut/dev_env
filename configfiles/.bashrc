@@ -18,8 +18,8 @@ PS1='\[\e[1;32m\][\u@\h]\[\e[m\] \[\e[1;36m\]\w\[\e[m\] \[\e[1;32m\]\$\[\e[m\] \
 
 # Alias
 alias mqn='man'
-"alias ls='ls -G --color=auto'
-"alias ll='ls -lGa --color=auto'
+#alias ls='ls -G --color=auto'
+#alias ll='ls -lGa --color=auto'
 alias gccw='gcc -Wall -Werror -Wextra'
 alias pdf='chromium'
 alias grep='grep --color=auto'
